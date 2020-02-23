@@ -1,0 +1,17 @@
+-  SLIDER - TEMPLATE.blade - hàm showButtonAction: $linh đang đặt thủ công
+
+_----------------------------------
+
+hiển thị thông báo lúc xóa không thành công, sai đâu đó, k nhận từ file my-js.js
+_----------------------------------
+
+
+
+_----------------------------------
+
+
+
+_----------------------------------
+echo "<pre>";
+print_r($);
+echo "</pre>";
